@@ -9,7 +9,7 @@
     <artifactId>jenkins-test-app</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
-    <n>Jenkins Test Application</n>
+    <name>Jenkins Test Application</name>
     
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
