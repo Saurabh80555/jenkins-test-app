@@ -8,7 +8,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Hello Jenkins! Application is running successfully!");
         App app = new App();
-        System.out.println("Result: " + app.getMessage());
+        System.out.println("Results: " + app.getMessage());
     }
     
     public String getMessage() {
