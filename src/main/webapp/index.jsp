@@ -32,7 +32,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🚀 Jenkins CI/CD Test Application</h1>
+        <h1>🚀 Jenkins CI/CD Test Application including webhook</h1>
         <div class="status">
             <h2>✅ Deployment Successful!</h2>
             <p><strong>Build Time:</strong> <%= new java.util.Date() %></p>
